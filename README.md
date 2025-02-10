@@ -1,2 +1,2 @@
 # thanh.github.io
-My persona websitel
+My personal website
