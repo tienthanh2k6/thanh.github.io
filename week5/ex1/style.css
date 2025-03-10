@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    padding: 20px;
+}
+
+.resume-container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: #333;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    background: #797573;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+section {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+table td tr th {
+    border: 1px solid rgb(255, 255, 255);
+}
+table td {
+    padding-left: 5px;
+}
+table tfoot tr td {
+width: 400px;
+text-align: right;
+padding-right: 5px;
+}
