@@ -44,10 +44,11 @@ ul {
     padding: 0;
 }
 table td tr th {
-    border: 1px solid rgb(255, 255, 255);
+    border: 1px solid ;
 }
 table td {
     padding-left: 5px;
+    color: #000000;
 }
 table tfoot tr td {
 width: 400px;
